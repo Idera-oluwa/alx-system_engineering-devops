@@ -1,1 +1,3 @@
-second file
+#!/bin/bash
+pwd
+
